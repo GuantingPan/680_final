@@ -1,6 +1,6 @@
 Title: CS680 Final Project
 
-Name:   Guanting Pan
+Name:   Guanting Pan AND
         Xuetong Wang
 
 Note:   - This is the repo for the cycleGAN and video transfer program
@@ -17,8 +17,8 @@ Here is the command line to run the video transfer program
 2. Run "cd pytorch-CycleGAN-and-pix2pix"
 
 2. (OPTIONAL) you can record you own video by using the webcam by running:
-    "python3 record_video.py --video_save <direction for saving the recored video>"
+    "python3 record_video.py --video_save \<direction for saving the recored video\>"
     Note: Please hit Esc on the keyboard if you want to stop the recording
 
 3. start the transformation by running:
-    "python3 video_transfer.py --name vango_light_3 --model test --no_dropout --video_input <direction for the input video> --video_output <direction for saving the output video>"
+    "python3 video_transfer.py --name vango_light_3 --model test --no_dropout --video_input \<direction for the input video\> --video_output \<direction for saving the output video\>"
