@@ -1,4 +1,4 @@
-Title: CS680 Final Project
+Title: CycleGAN based Video Transformer
 
 Name:   Guanting Pan AND
         Xuetong Wang
